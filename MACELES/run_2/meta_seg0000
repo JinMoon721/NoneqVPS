@@ -1,0 +1,8 @@
+{
+  "segment_id": 0,
+  "initial_step": 0,
+  "last_step": 39200,
+  "pace": 100,
+  "dt_fs": 1.0,
+  "status": "running"
+}

@@ -1,0 +1,18 @@
+/global/homes/s/seokjin/.conda/envs/maceles_env/lib/python3.11/site-packages/torch/serialization.py:1328: UserWarning: 'torch.load' received a zip file that looks like a TorchScript archive dispatching to 'torch.jit.load' (call 'torch.jit.load' directly to silence this warning)
+  warnings.warn(
+/global/homes/s/seokjin/.conda/envs/maceles_env/lib/python3.11/site-packages/torch/serialization.py:1328: UserWarning: 'torch.load' received a zip file that looks like a TorchScript archive dispatching to 'torch.jit.load' (call 'torch.jit.load' directly to silence this warning)
+  warnings.warn(
+/global/homes/s/seokjin/.conda/envs/maceles_env/lib/python3.11/site-packages/torch/serialization.py:1328: UserWarning: 'torch.load' received a zip file that looks like a TorchScript archive dispatching to 'torch.jit.load' (call 'torch.jit.load' directly to silence this warning)
+  warnings.warn(
+/global/homes/s/seokjin/.conda/envs/maceles_env/lib/python3.11/site-packages/torch/serialization.py:1328: UserWarning: 'torch.load' received a zip file that looks like a TorchScript archive dispatching to 'torch.jit.load' (call 'torch.jit.load' directly to silence this warning)
+  warnings.warn(
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/global/homes/s/seokjin/.conda/envs/maceles_env/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/global/homes/s/seokjin/.conda/envs/maceles_env/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/global/homes/s/seokjin/.conda/envs/maceles_env/lib/libplumedKernel.so" +++
++++ Loading the PLUMED kernel runtime +++
++++ PLUMED_KERNEL="/global/homes/s/seokjin/.conda/envs/maceles_env/lib/libplumedKernel.so" +++
+[2026-04-22T00:11:08.061] error: *** STEP 51863887.0 ON nid008264 CANCELLED AT 2026-04-22T00:11:08 DUE TO TIME LIMIT ***
+[2026-04-22T00:11:08.062] error: *** JOB 51863887 ON nid008264 CANCELLED AT 2026-04-22T00:11:08 DUE TO TIME LIMIT ***

@@ -21,7 +21,31 @@ class SimConfig:
     rin: float
     rout: float
 
+@dataclass(frozen=True)
+class MDConfig:
+    interval_log: int
+    interval_dump: int
+    interval_ckpt: int
+    nsteps: int
+    max_force_stop: float ## ev/A
+    tempK: float
+    dtASE: float
+    friction: float ## fs
 
+@dataclass(frozen=True)
+class plumedConfig:
+    lam: float
+    pace: int
+    height: float
+    sigma: float
+    biasfactor: float
+    stride: int
+    tempK: float
+    lower: float
+    upper: float
+    kappa: float ## Harmonic potential 
+
+  
 def default_config() -> SimConfig:
     return SimConfig(
         L=200.0,
